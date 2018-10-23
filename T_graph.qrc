@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="T_graph">
+    <file>Resources/LoginA.bmp</file>
+  </qresource>
+</RCC>

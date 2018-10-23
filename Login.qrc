@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="Login">
+    <file>Resources/Myicon.ico</file>
+    <file>Resources/icon.ico</file>
+    <file>Resources/T_icon.png</file>
+    <file>Resources/RegisterA.bmp</file>
+    <file>Resources/thermometer.png</file>
+    <file>Resources/LoginA.bmp</file>
+  </qresource>
+</RCC>
